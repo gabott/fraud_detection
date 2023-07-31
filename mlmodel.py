@@ -1,0 +1,1 @@
+print('has all the newmodel info')
